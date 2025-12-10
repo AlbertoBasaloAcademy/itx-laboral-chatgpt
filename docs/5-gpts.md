@@ -54,14 +54,6 @@ Por [Alberto Basalo](https://albertobasalo.dev)
 
 ---
 
-### NotebookLM (complemento a GPTs)
-
-- Herramienta de Google para **analizar documentos extensos** (manuales, contratos, pliegos).  
-- Funciona como un **GPT especializado** en tus propios textos.  
-- Ideal cuando se necesita **razonamiento profundo** sobre múltiples documentos.  
-
----
-
 ## CONCRETANDO
 
 ### Práctica individual, discusión en grupo.
@@ -86,7 +78,7 @@ Por [Alberto Basalo](https://albertobasalo.dev)
 - Permiten **compartir conocimiento sin programar**.  
 - Son un paso natural hacia la **automatización inteligente del soporte**.
 
-### Próxima lección:  
+### Próximo aprendizaje:  
 **Automatización de Procesos y Flujos.**
 
 > _No es magia, es tecnología._  

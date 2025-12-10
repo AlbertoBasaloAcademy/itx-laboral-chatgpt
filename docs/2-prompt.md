@@ -43,7 +43,7 @@ Por [Alberto Basalo](https://albertobasalo.dev)
 | **Arte** | Creatividad, intuición, paciencia. | Resultados variados, a veces brillantes. |
 | **Ingeniería** | Método, estructura, revisión. | Resultados consistentes y reproducibles. |
 
-> El mejor prompting combina ambos.
+> El mejor _prompting_ combina ambos.
 
 ---
 

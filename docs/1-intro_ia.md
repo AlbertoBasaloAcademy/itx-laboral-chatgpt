@@ -31,8 +31,8 @@ Por [Alberto Basalo](https://albertobasalo.dev)
 
 ### Actividad rápida  
 
-- Escribe tres palabras que asocies con _"Inteligencia Artificial"_.  
-  > Comenta en el chat: ¿para qué usas IA en tu trabajo?
+- Comenta en el chat:  
+  > ¿para qué usas IA en tu trabajo?
 
 ---
 
@@ -41,7 +41,7 @@ Por [Alberto Basalo](https://albertobasalo.dev)
 ### Modelos de lenguaje
 
 - Son programas que **leen mucho texto y aprenden patrones** de lenguaje. 
-- No "piensan", **predicen la siguiente palabra** de forma estadística.
+- No _piensan_, **predicen la siguiente palabra** de forma estadística.
   > Ejemplos: `ChatGPT, Claude, Gemini, DeepSeek, Grok.`
 
 ---
