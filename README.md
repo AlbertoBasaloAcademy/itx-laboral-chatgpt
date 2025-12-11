@@ -2,7 +2,7 @@
 
 Taller de uso avanzado de ChatGPT para administrativos del departamento laboral de Inditex
 
-Viernes 12 y  miercoles 17 de diciembre de 2025.
+Viernes 12 y  miércoles 17 de diciembre de 2025.
 
 Lecciones y documentación:
 
