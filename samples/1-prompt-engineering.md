@@ -3,8 +3,6 @@
 
 ## Patrones y estructuras
 
-### 📊 Resumen rápido de patrones
-
 | Patrón                       | Para qué va bien                                                      |
 |------------------------------|-----------------------------------------------------------------------| 
 | **Role-Task-Format (RTF)**   | Posts, emails y descripciones claras y profesionales.                 |
