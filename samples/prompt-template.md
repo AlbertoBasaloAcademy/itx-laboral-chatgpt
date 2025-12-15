@@ -1,4 +1,4 @@
-# Petición para puesto post venta
+# Titulo del prompt
 
 ## Rol
 
@@ -9,3 +9,6 @@
 ### Datos
 
 ## Formato
+
+### Ejemplo
+
