@@ -16,18 +16,22 @@ Se usa en un entrono empresarial concreto para automatizar procesos internos de 
 
 ### Datos
 
-El archivo [Trans Ausencias](/temp/Trans%20Ausencias.vb) contiene un programa escrito en el lenguaje TRANS  
+La carpeta [/temp/trans](../trans/) contiene archivos escritos en el lenguaje TRANS (La extensión *.vb es solo a efectos de coloreado de sintaxis).
+
+No uses ningún otro archivo de instrucciones previo. Solamente usa los archivos en la carpeta indicada.
 
 ## Formato
 
-Genera una lista de instrucciones sintácticas en formato markdown. 
-Agrupa las instrucciones en secciones según su funcionalidad (declaración de variables, estructuras de control, funciones, etc.). 
-Usa frases cortas y claras necesito que sea usado por diferentes LLMs.
-Enmarca ejemplos de código en bloques de código con la sintaxis _vb_ para que se resalten correctamente. 
+- Genera una lista de instrucciones sintácticas en formato markdown. 
+- Agrupa las instrucciones en secciones 
+  - Generalidades: (declaración de variables, estructuras de control, llamadas, etc.). 
+  - Particularidades: (características únicas del lenguaje, sus funciones integradas, etc.).
+- Usa frases cortas y claras necesito que sea usado por diferentes LLMs.
+- Enmarca ejemplos de código en bloques de código con la sintaxis _vb_ para que se resalten correctamente. 
 
 ### Ejemplo
 
-- Fichero nombre: `trans.instructions.md`
+- Fichero nombre: `gpt.trans.instructions.md`
 
 ```md
 # Instrucciones de Sintaxis del Lenguaje TRANS
@@ -36,13 +40,15 @@ Enmarca ejemplos de código en bloques de código con la sintaxis _vb_ para que 
 
 Las variables no requieren declaración previa. Se crean al asignarles un valor:
 
-```vb
+````vb
 #MiVariable = 0
 #MiTexto = "Hola"
 #MiFecha = {01/01/2024}
-```
+````
 
 ---
 > Documento generado por IA. Actualizado el 2025-12-17
 
 ```
+
+
